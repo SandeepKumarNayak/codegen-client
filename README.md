@@ -5,15 +5,25 @@ Welcome to the AI Code Generator frontend application! This project provides a s
 ## User Interface
 
 The UI is built with a modern, glassmorphic design focusing on user experience.
+## Dashboard:
 
 <img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/18965b4c-6841-45f8-b4f3-3b5293b27b84" />
 
+## Editor screen
+<img width="1916" height="895" alt="image" src="https://github.com/user-attachments/assets/08d437b3-326d-4845-94e0-872cc36a8d9c" />
+
+## Editor and live preview:
+<img width="1918" height="951" alt="image" src="https://github.com/user-attachments/assets/d627d749-79a2-4b07-be03-67b10ee49e8f" />
+
+## Expanded view
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/11ac6c9b-ad4d-44d7-bde7-bf69e099d130" />
 
 ## Application Flow
 
 The user journey is streamlined to provide immediate visual feedback.
 
 ![Flow Diagram](./public/flow_diagram.png)
+
 
 ### Steps
 1. **Prompt Input**: The user enters a natural language description of the desired UI component.
