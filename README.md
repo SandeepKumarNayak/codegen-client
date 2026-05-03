@@ -55,3 +55,21 @@ The user journey is streamlined to provide immediate visual feedback.
 - **State Management**: Zustand
 - **Routing**: TanStack Router
 - **Icons**: Lucide React
+
+---
+
+## Setup Instructions
+
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+
+2. **Environment Variables**:
+   Copy `.env.example` to `.env` and fill in any required variables.
+   
+3. **Run Development Server**:
+   ```bash
+   npm run dev
+   ```
+   The frontend application will be available at `http://localhost:5173`.
