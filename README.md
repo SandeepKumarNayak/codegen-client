@@ -6,7 +6,8 @@ Welcome to the AI Code Generator frontend application! This project provides a s
 
 The UI is built with a modern, glassmorphic design focusing on user experience.
 
-![UI Screenshot](./public/ui_screenshot.png)
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/18965b4c-6841-45f8-b4f3-3b5293b27b84" />
+
 
 ## Application Flow
 
