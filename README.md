@@ -1,6 +1,24 @@
 # AI Code Generator Frontend
 
-Welcome to the AI Code Generator frontend application! This project provides a stunning, interactive user interface for generating, transpiling, and previewing React code in real-time using advanced AI models.
+## What is it?
+This is the frontend client for the **AI Code Generator (Codegen)**. It is a stunning, interactive web application that acts as your personal AI pair programmer for UI development.
+
+## What does it do?
+It allows you to describe UI components in plain English (e.g., "Create a sleek login form using Tailwind") and instantly generates the working React code for it. It then renders a **live preview** of that component right in your browser, enabling you to iterate on your designs in real-time without leaving the app.
+
+### Key Features
+- **Tech Stack Selection:** Customize your generation output by selecting your preferred framework (e.g., React, Vue, HTML) and styling tools (e.g., Tailwind, CSS) directly from the interface.
+- **Manual Code Editing:** The app features a robust built-in code editor, allowing you to manually refine and tweak the AI-generated code to perfection.
+- **Live Preview Tabs:** Seamlessly switch between the code editor and the live preview tab, or view them side-by-side, to see your component running in real-time.
+- **Light / Dark Mode:** Easily toggle between light and dark themes to test how your generated UI components adapt to different color schemes.
+
+## How does it do it?
+1. **Prompting:** You enter a natural language prompt in the UI.
+2. **Streaming:** The frontend sends this request to our backend API, which streams back the AI-generated raw code piece by piece.
+3. **In-Browser Transpilation:** As the code streams in, it is transpiled on-the-fly using Babel directly in your browser.
+4. **Sandboxed Preview:** The transpiled code is injected into a secure, isolated `iframe` where it is rendered instantly for you to see.
+
+---
 
 ## User Interface
 
