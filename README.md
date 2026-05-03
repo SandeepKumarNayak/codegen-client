@@ -6,13 +6,13 @@ Welcome to the AI Code Generator frontend application! This project provides a s
 
 The UI is built with a modern, glassmorphic design focusing on user experience.
 
-![UI Screenshot](C:\Users\asus\.gemini\antigravity\brain\582381fa-1ab9-4dee-95c4-dc92e7f23534\ui_screenshot_1777783542616.png)
+![UI Screenshot](./public/ui_screenshot.png)
 
 ## Application Flow
 
 The user journey is streamlined to provide immediate visual feedback.
 
-![Flow Diagram](C:\Users\asus\.gemini\antigravity\brain\582381fa-1ab9-4dee-95c4-dc92e7f23534\flow_diagram_1777783558040.png)
+![Flow Diagram](./public/flow_diagram.png)
 
 ### Steps
 1. **Prompt Input**: The user enters a natural language description of the desired UI component.
